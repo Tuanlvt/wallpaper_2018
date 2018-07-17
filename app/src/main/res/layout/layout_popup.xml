@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <Button
+        android:id="@+id/button_home_screen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:fontFamily="serif"
+        android:text="@string/home_screen"
+        android:textAllCaps="false"
+        android:textColor="@color/color_grey_700"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_1"
+        android:background="@color/color_grey_500"
+        />
+
+    <Button
+        android:id="@+id/button_lock_screen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:fontFamily="serif"
+        android:text="@string/lock_screen"
+        android:textAllCaps="false"
+        android:textColor="@color/color_grey_700"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_1"
+        android:background="@color/color_grey_500"
+        />
+
+    <Button
+        android:id="@+id/button_both"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:fontFamily="serif"
+        android:text="@string/both"
+        android:textAllCaps="false"
+        android:textColor="@color/color_grey_700"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp_1"
+        android:background="@color/color_grey_500"
+        />
+</LinearLayout>

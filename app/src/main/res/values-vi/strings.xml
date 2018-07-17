@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select">Chọn</string>
+    <string name="set_wallpaper">Thay đổi thành công !</string>
+    <string name="home_screen">Màn hình chính</string>
+    <string name="lock_screen">Màn hình khóa</string>
+    <string name="both">Cả hai</string>
+</resources>

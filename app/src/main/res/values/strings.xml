@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <string name="select">Select</string>
+    <string name="set_wallpaper">Set wallpaper Success !</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="lock_screen">Lock Screen</string>
+    <string name="both">Both</string>
+</resources>
